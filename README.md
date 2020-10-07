@@ -12,7 +12,7 @@ My inner stoic needed a little help to deal with, shall we say, the inexplicable
 
 ## Which platforms are supported?
 
-Currently only Instagram and Facebook are supported. Yes, I browser
+Currently only Instagram and Facebook are supported. No, just the browser.
 
 ## Will it work on mobile?
 
