@@ -1,10 +1,14 @@
 # Desocialize Media
 
-A browser extension for Chrome and Firefox.
-
-De-socialize your social media by removing comments from your favourite platforms.
+A browser extension for Chrome and Firefox to de-socialize your social media by removing comments from your favourite platforms.
 
 You can still see comments if you click a content item directly, such as opening a photograph on Instagram.
+
+## Firefox
+https://addons.mozilla.org/en-CA/firefox/addon/desocialize-media/
+
+## Chrome
+https://chrome.google.com/webstore/detail/desocialize-media/bmcchnicgjlmofnbhniaopicbjcjbpnl
 
 ## Why?
 
