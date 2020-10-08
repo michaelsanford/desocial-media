@@ -12,11 +12,11 @@ https://chrome.google.com/webstore/detail/desocialize-media/bmcchnicgjlmofnbhnia
 
 ## Why?
 
-My inner stoic needed a little help to deal with, shall we say, the inexplicable conduct of internet randos.
+My inner stoic needed a little help to deal with, shall we say, the inexplicable conduct of internet randos spewing insanity and puerile vitriol, polluting the comments of many government/news posts.
 
 ## Which platforms are supported?
 
-Currently only Instagram and Facebook are supported. No, just the browser.
+Currently only Instagram and Facebook are supported, just the browser.
 
 ## Will it work on mobile?
 
