@@ -16,8 +16,6 @@ This extension is _extremely simple_. No minification or external libraries are 
 
 Please test your work thoroughly before submitting a PR.
 
-Understand that Node-Virtualbox is used on a wide variety of platforms; avoid code that applies only to one host operating system and make it as generic as possible.
-
 ## Submitting Pull Requests
 
 1. Pull requests *must* be tied to an issue. If no issue exists, please file one (see above).
